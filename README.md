@@ -12,11 +12,11 @@ You are allowed to use this code for educational purposes and for citation use t
 ### Code files discription:
 Optimal capacitor placement in distribution systems (loss reduction and voltage improvement) using PSO algorithm 
 
-The simulation contains an optimization algorithm (PSO), which is used to find the optimal place and size of the Capacitor in three different power systems. Code is related to the paper shown in YouTube video. But the algorithm is different than the main paper (we have used PSO). The results are comparable And there are some criteria in the paper which has been neglected for the sake of simplicity.
+The simulation contains an optimization algorithm (PSO), which is used to find the optimal place and size of the Capacitor in three different power systems. The code is related to the paper shown in the YouTube video. But the algorithm is different than the main paper (we have used PSO). The results are comparable And there are some criteria in the paper that have been neglected for the sake of simplicity.
 
 Files contain:
-+ Optimization for 34 Bus system (the network data has presented or refereenced in the second paper)
-+ Optimization for 85 Bus system (the network data has presented or refereenced in the second paper)
-+ Optimization for EDN Bus system (the network data has presented or refereenced in the second paper)
++ Optimization for 34 Bus system (the network data has presented or referenced in the second paper)
++ Optimization for 85 Bus system (the network data has presented or referenced in the second paper)
++ Optimization for EDN Bus system (the network data has presented or referenced in the second paper)
 
 All the best
