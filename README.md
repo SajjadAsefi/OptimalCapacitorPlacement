@@ -1,6 +1,7 @@
-## Coding of power flow and BIBC matrix calculation has been updated - 19-Dec-2020
-
 # OptimalCapacitorPlacement
+
+## (19-Dec-2020) - Coding of power flow and BIBC matrix calculation has been updated
+
 #### Optimal capacitor placement in distribution systems (loss reduction and voltage improvement)
 
 You are allowed to use this code for educational purposes and for citation use the following paper:
