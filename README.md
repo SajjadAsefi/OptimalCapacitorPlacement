@@ -4,7 +4,7 @@
 
 ### Optimal capacitor placement in distribution systems (loss reduction and voltage improvement)
 
-You are allowed to use this code for educational purposes and for citation use the following paper:
+Feel free to use this code for educational purposes and for citation use the following paper:
 
 + Amara, Theophilus, et al. "Technical and economic performance evaluation for efficient capacitors sizing and placement in a real distribution network." 2019 IEEE Student Conference on Research and Development (SCOReD). IEEE, 2019.
 + Abou El-Ela, Adel Ali, et al. "Optimal capacitor placement in distribution systems for power loss reduction and voltage profile improvement." IET Generation, Transmission & Distribution 10.5 (2016): 1209-1221.
